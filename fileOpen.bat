@@ -1,3 +1,3 @@
 @echo off
-runas /user:Administrator Encryptor.exe
+runas /user:Administrator /savecred Encryptor.exe
 PAUSE
